@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="20dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="20dp"
+    app:cardBackgroundColor="@color/purple"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="0dp"
+    app:strokeWidth="1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:id="@+id/ingredient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/bold"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            tools:text="Ingredient Name" />
+
+        <TextView
+            android:id="@+id/function"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ingredient"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/book"
+            android:textColor="@color/dark"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            tools:text="Ingredient details" />
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/function"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/book"
+            android:textColor="@color/white"
+            android:textSize="1sp"
+            tools:text="Ingredient details" />
+
+
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

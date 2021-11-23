@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ui:5.3.0.304@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/555f19c6cbb4a113e1f27f758c86e3dd/transformed/jetified-ui-5.3.0.304/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/555f19c6cbb4a113e1f27f758c86e3dd/transformed/jetified-ui-5.3.0.304/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/555f19c6cbb4a113e1f27f758c86e3dd/transformed/jetified-ui-5.3.0.304/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/ui/5.3.0.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ui-5.3.0.304-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huawei.hms/ui/5.3.0.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ui-5.3.0.304-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
