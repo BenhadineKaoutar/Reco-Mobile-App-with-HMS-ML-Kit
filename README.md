@@ -1,2 +1,4 @@
 # Reco-Mobile-App-with-HMS-ML-Kit
-Reco is a free and offline mobile app that decode the meaning of cosmetic product's ingredients list with two clicks. It is powered by HMS ML Kit 
+Do you read the ingredients list for the products you use? If yes, congrats you're a reasonable consumer, but even if you did, it's still frustrating and takes your time and effort deciphering their meaning. Reco is a free and offline mobile app that can help you decode the meaning of those ingredients with two clicks. It is powered by HMS ML Kit and can detect over 29,000 cosmetic ingredients.
+
+
